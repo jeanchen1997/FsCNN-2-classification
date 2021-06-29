@@ -9,4 +9,5 @@ Propose a new fuzzy convolutional neural network (Fuzzy Convolutional Neural Net
 
 # References
 Part of code we quote from http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
+
 The following URL we quote for datasets https://github.com/AcademiaSinicaNLPLab/sentiment_dataset/tree/master/data
